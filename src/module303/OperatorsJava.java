@@ -25,11 +25,11 @@ public class OperatorsJava {
 
         r = ((a < b) && (c > d) ) && (a < b) || (c < d);
 
-        int x = 2;
-        int y = 3;
-        int result = x++;
-        System.out.println("y : "+y +" result : " +  result +" x : "+ x);
-
+//        int x = 2;
+//        int y = 3;
+//        int result = x++;
+//        System.out.println("y : "+y +" result : " +  result +" x : "+ x);
+//
 
 
     }
