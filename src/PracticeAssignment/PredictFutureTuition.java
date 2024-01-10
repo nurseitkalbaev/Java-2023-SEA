@@ -1,4 +1,4 @@
-package PracticeAsignment;
+package PracticeAssignment;
 
 public class PredictFutureTuition {
     public static void main(String[] args) {
